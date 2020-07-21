@@ -22,7 +22,7 @@ class Team extends Component {
       slidesToScroll: 1,
       initialSlide: 0,
       autoplay: true,
-      autoplaySpeed: 2000,
+      autoplaySpeed: 1500,
       cssEase: "linear",
       responsive: [
         {
@@ -31,7 +31,6 @@ class Team extends Component {
             slidesToShow: 2,
             slidesToScroll: 1,
             infinite: true,
-            dots: true,
           },
         },
         {
@@ -40,7 +39,6 @@ class Team extends Component {
             slidesToShow: 2,
             slidesToScroll: 1,
             infinite: true,
-            dots: true,
           },
         },
         {
