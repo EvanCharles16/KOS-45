@@ -11,7 +11,7 @@ const Video = () => {
 
   return (
     <div className="text-center">
-      <p>Intro Video</p>
+      <h5 className="mb-3">Intro Video</h5>
       <h4>About Product in a Short Video</h4>
       <iframe
         title="stopBullying"
@@ -23,21 +23,19 @@ const Video = () => {
         allowFullScreen
         className="border border-dark mt-3 videoSize"
         data-aos="zoom-in-down"
-      >
-        >
-      </iframe>
+      ></iframe>
 
       <Container className="mt-5">
         <Row>
           <Col className="text-center">
-            <h5>Video Quote</h5>
-            <p className="mt-4">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris
-              vitae sodales lectus, non ultrices nisi. In varius, leo non
-              gravida tristique
+            <h5>Kutipan dari Video</h5>
+            <p className="mt-4 quoteText">
+              “Orang yang kuat bukan mereka yang selalu menang. Melainkan mereka
+              yang tetap tegar ketika terjatuh.” <br />– Kahlil Gibran
             </p>
           </Col>
         </Row>
+        <hr />
       </Container>
     </div>
   );

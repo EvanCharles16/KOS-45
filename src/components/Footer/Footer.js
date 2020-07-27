@@ -12,9 +12,16 @@ class Footer extends Component {
             <Col lg={4} md={12} sm={12} className="footerSection">
               <h5 className="mb-4 mt-3">About Us</h5>
               <p>
-                Excepteur occaecat veniam adipisicing et aliqua amet magna elit.
-                Excepteur occaecat veniam adipisicing et aliqua amet magna elit.
-                Excepteur occaecat veniam adipisicing et aliqua amet magna elit.
+                <span className="font-weight-bold">KOS45</span> merupakan
+                singkatan dari{" "}
+                <span className="font-weight-bold">
+                  "Kumpulan Orang Semangat 45"
+                </span>{" "}
+                dari Kelompok 1.
+                <p className="mt-2"></p>
+                <span className="font-weight-bold">Tujuan kami</span> membuat
+                website ini adalah untuk mencegah bullying yang terjadi
+                dimanapun ataupun mengurangi dampak bullying itu sendiri.
               </p>
             </Col>
             <Col lg={4} md={12} sm={12} className="mt-5">
@@ -62,7 +69,7 @@ class Footer extends Component {
                     className="fa fa-envelope fa-2x mt-3 mr-4"
                     aria-hidden="true"
                   ></i>
-                  we@mail.com
+                  kos45@gmail.com
                 </li>
                 <a
                   href="https://www.instagram.com/kos45_/?hl=id"

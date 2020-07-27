@@ -1,3 +1,8 @@
+.quoteText {
+  font-size: 20px;
+  font-weight: 700;
+}
+
 @media (min-width: 320px) and (max-width: 399.98px) {
   .videoSize {
     width: 350px;

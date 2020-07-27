@@ -13,11 +13,12 @@ body {
 }
 
 .bannerTop {
-  padding-top: 9rem !important;
+  padding-top: 5rem !important;
   padding-bottom: 3rem !important;
 }
 
 .bannerText {
+  padding-top: 4rem;
   font-size: 20px;
   text-align: justify;
 }
@@ -37,5 +38,5 @@ button.buttonMore {
 }
 
 .bannerPhoto {
-  width: 20rem;
+  width: 25rem;
 }

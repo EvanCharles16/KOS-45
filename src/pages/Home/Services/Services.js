@@ -4,6 +4,10 @@ import Aos from "aos";
 import "aos/dist/aos.css";
 import "./Services.css";
 
+import service1 from "../../../img/service/stop-bullying.jpeg";
+import service2 from "../../../img/service/Ilustrasi-Stop-Bulying.jpg";
+import service3 from "../../../img/service/stop-bullying-1.jpeg";
+
 const Services = () => {
   useEffect(() => {
     Aos.init({ duration: 1500, disable: false });
@@ -13,46 +17,34 @@ const Services = () => {
       <Row className="mb-5">
         <Col lg={4} md={6} sm={12} className="mt-4">
           <Card style={{ width: "18rem" }} className="serviceCard mx-auto">
-            <i
-              className="fa fa-podcast fa-3x text-center mt-3"
-              aria-hidden="true"
-            ></i>
             <Card.Body>
-              <Card.Title>Card Title</Card.Title>
-              <Card.Text>
-                Some quick example text to build on the card title and make up
-                the bulk of the card's content.
-              </Card.Text>
+              <img
+                src={service3}
+                alt="stop-bullying"
+                className="servicePhoto"
+              />
             </Card.Body>
           </Card>
         </Col>
         <Col lg={4} md={6} sm={12} className="mt-4">
           <Card style={{ width: "18rem" }} className="serviceCard mx-auto">
-            <i
-              className="fa fa-podcast fa-3x text-center mt-3"
-              aria-hidden="true"
-            ></i>
             <Card.Body>
-              <Card.Title>Card Title</Card.Title>
-              <Card.Text>
-                Some quick example text to build on the card title and make up
-                the bulk of the card's content.
-              </Card.Text>
+              <img
+                src={service2}
+                alt="stop-bullying"
+                className="servicePhoto"
+              />
             </Card.Body>
           </Card>
         </Col>
         <Col lg={4} md={6} sm={12} className="mt-4">
           <Card style={{ width: "18rem" }} className="serviceCard mx-auto">
-            <i
-              className="fa fa-podcast fa-3x text-center mt-3"
-              aria-hidden="true"
-            ></i>
             <Card.Body>
-              <Card.Title>Card Title</Card.Title>
-              <Card.Text>
-                Some quick example text to build on the card title and make up
-                the bulk of the card's content.
-              </Card.Text>
+              <img
+                src={service1}
+                alt="stop-bullying"
+                className="servicePhoto"
+              />
             </Card.Body>
           </Card>
         </Col>
