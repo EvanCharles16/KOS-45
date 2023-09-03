@@ -80,22 +80,6 @@ class Team extends Component {
                   <span>1931137</span>
                 </h2>
                 <p>Sistem Informasi</p>
-
-                <ul>
-                  <li>
-                    <a href="https://wa.me/0895627436758" target="blank">
-                      <i className="fa fa-whatsapp fa-2x"></i>
-                    </a>
-                  </li>
-                  <li>
-                    <a
-                      href="https://www.instagram.com/evann.ch/?hl=id"
-                      target="blank"
-                    >
-                      <i className="fa fa-instagram fa-2x"></i>
-                    </a>
-                  </li>
-                </ul>
               </Card.Body>
             </Card>
           </div>
@@ -110,22 +94,6 @@ class Team extends Component {
                   <span>1931163</span>
                 </h2>
                 <p>Sistem Informasi</p>
-
-                <ul>
-                  <li>
-                    <a href="https://wa.me/085835998805" target="blank">
-                      <i className="fa fa-whatsapp fa-2x"></i>
-                    </a>
-                  </li>
-                  <li>
-                    <a
-                      href="https://www.instagram.com/frederick_8x/?hl=id"
-                      target="blank"
-                    >
-                      <i className="fa fa-instagram fa-2x"></i>
-                    </a>
-                  </li>
-                </ul>
               </div>
             </Card>
           </div>
@@ -140,22 +108,6 @@ class Team extends Component {
                   <span>1941234</span>
                 </h2>
                 <p>Manajemen</p>
-
-                <ul>
-                  <li>
-                    <a href="https://wa.me/089623455283" target="blank">
-                      <i className="fa fa-whatsapp fa-2x"></i>
-                    </a>
-                  </li>
-                  <li>
-                    <a
-                      href="https://www.instagram.com/frenovsky/?hl=id"
-                      target="blank"
-                    >
-                      <i className="fa fa-instagram fa-2x"></i>
-                    </a>
-                  </li>
-                </ul>
               </div>
             </Card>
           </div>
@@ -170,22 +122,6 @@ class Team extends Component {
                   <span>1941144</span>
                 </h2>
                 <p>Manajemen</p>
-
-                <ul>
-                  <li>
-                    <a href="https://wa.me/089683187715" target="blank">
-                      <i className="fa fa-whatsapp fa-2x"></i>
-                    </a>
-                  </li>
-                  <li>
-                    <a
-                      href="https://www.instagram.com/lydiaadesritaa/?hl=id"
-                      target="blank"
-                    >
-                      <i className="fa fa-instagram fa-2x"></i>
-                    </a>
-                  </li>
-                </ul>
               </Card.Body>
             </Card>
           </div>
@@ -200,22 +136,6 @@ class Team extends Component {
                   <span>1941161</span>
                 </h2>
                 <p>Manajemen</p>
-
-                <ul>
-                  <li>
-                    <a href="https://wa.me/082383692861" target="blank">
-                      <i className="fa fa-whatsapp fa-2x"></i>
-                    </a>
-                  </li>
-                  <li>
-                    <a
-                      href="https://www.instagram.com/jeffriwinardy/?hl=id"
-                      target="blank"
-                    >
-                      <i className="fa fa-instagram fa-2x"></i>
-                    </a>
-                  </li>
-                </ul>
               </Card.Body>
             </Card>
           </div>
@@ -230,22 +150,6 @@ class Team extends Component {
                   <span>1941039</span>
                 </h2>
                 <p>Manajemen</p>
-
-                <ul>
-                  <li>
-                    <a href="https://wa.me/082385809992" target="blank">
-                      <i className="fa fa-whatsapp fa-2x"></i>
-                    </a>
-                  </li>
-                  <li>
-                    <a
-                      href="https://www.instagram.com/jrlydng/?hl=id"
-                      target="blank"
-                    >
-                      <i className="fa fa-instagram fa-2x"></i>
-                    </a>
-                  </li>
-                </ul>
               </Card.Body>
             </Card>
           </div>
@@ -260,22 +164,6 @@ class Team extends Component {
                   <span>1911026</span>
                 </h2>
                 <p>Teknik Sipil</p>
-
-                <ul>
-                  <li>
-                    <a href="https://wa.me/08876962275" target="blank">
-                      <i className="fa fa-whatsapp fa-2x"></i>
-                    </a>
-                  </li>
-                  <li>
-                    <a
-                      href="https://www.instagram.com/radhasari_/?hl=id"
-                      target="blank"
-                    >
-                      <i className="fa fa-instagram fa-2x"></i>
-                    </a>
-                  </li>
-                </ul>
               </Card.Body>
             </Card>
           </div>
@@ -290,22 +178,6 @@ class Team extends Component {
                   <span>1911024</span>
                 </h2>
                 <p>Teknik Sipil</p>
-
-                <ul>
-                  <li>
-                    <a href="https://wa.me/081261050546" target="blank">
-                      <i className="fa fa-whatsapp fa-2x"></i>
-                    </a>
-                  </li>
-                  <li>
-                    <a
-                      href="https://www.instagram.com/lidiamanalu_05/?hl=id"
-                      target="blank"
-                    >
-                      <i className="fa fa-instagram fa-2x"></i>
-                    </a>
-                  </li>
-                </ul>
               </Card.Body>
             </Card>
           </div>
